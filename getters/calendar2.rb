@@ -1,6 +1,6 @@
 require 'json'
 
-current_year = 2020
+current_year = 2021
 file_data = File.read(File.join(File.dirname(__FILE__), '/raw-cal.txt')).lines
 
 year_to_month = {
