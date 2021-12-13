@@ -56,8 +56,8 @@
         "events": [
           { "day": "3", "event": "PLC/Committee" },
           { "day": "10", "event": "Regular Meeting" },
+          { "day": "14-16", "event": "Go Karts/Escape Room" },
           { "day": "17", "event": "Regular Meeting" },
-          { "day": "21-23", "event": "Go Karts/Escape Room" },
           { "day": "24", "event": "Regular Meeting" },
           { "day": "30", "event": "PLC" },
           { "day": "31", "event": "Regular Meeting" }
