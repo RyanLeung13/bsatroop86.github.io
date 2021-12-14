@@ -54,7 +54,8 @@
       {
         "month": "January",
         "events": [
-          { "day": "3", "event": "PLC/Committee" },
+          { "day": "2", "event": "PLC/Committee" },
+          { "day": "3", "event": "Regular Meeting" },
           { "day": "10", "event": "Regular Meeting" },
           { "day": "14-16", "event": "Go Karts/Escape Room" },
           { "day": "17", "event": "Regular Meeting" },
