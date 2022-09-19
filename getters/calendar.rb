@@ -1,7 +1,7 @@
 require 'csv'
 require 'json'
 
-raw = `curl "https://docs.google.com/spreadsheets/d/1mr3wZuE35yQrhDPB4V7iuS48hosQhyfHIgwiZjcuStY/export?format=csv&id=1mr3wZuE35yQrhDPB4V7iuS48hosQhyfHIgwiZjcuStY&gid=0"`
+raw = `curl -L "https://docs.google.com/spreadsheets/d/1mr3wZuE35yQrhDPB4V7iuS48hosQhyfHIgwiZjcuStY/export?format=csv&id=1mr3wZuE35yQrhDPB4V7iuS48hosQhyfHIgwiZjcuStY&gid=0"`
 csv = CSV.parse(raw)
 orgnized = Hash.new
 csv.each do |event|
