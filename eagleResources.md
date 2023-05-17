@@ -16,8 +16,9 @@ nav_groups:
   - [From Parent](https://www.monmouthbsa.org/files/12559/recommendationparents-pdf)
   - [From Neighbor](https://www.monmouthbsa.org/files/12558/recommendationneighbor-pdf)
   - [From Teacher](https://www.monmouthbsa.org/files/12560/recommendationteacher-pdf)
-  - [From Employer](https://www.monmouthbsa.org/files/12562/Letter-of-Recommendation-Employer-2011-pdf)
   - [From Religious Leader](https://www.monmouthbsa.org/files/12561/recommendationreligious-pdf)
+  - [From another Reference](https://www.monmouthbsa.org/files/12558/recommendationneighbor-pdf)
+  - [From Employer](https://www.monmouthbsa.org/files/12562/Letter-of-Recommendation-Employer-2011-pdf)
 
 ## <b>[Scholarships](https://nesa.org/for-eagle-scouts/scholarships/)</b>
 
